@@ -2,7 +2,6 @@
 
 == Info ================================
 # Name: Amnon Yaakov
-# Id: 316158328
 
 == Project Summary =====================
 This project is a BomberMan-style game built in C++ using the SFML library.  
